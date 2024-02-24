@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 😄 Pronouns: ele/dele he
-- 👨‍🎓: Course: Mathmatic at [FEUC]([(https://www.feuc.br/)]) and analysis and systems development at [Descomplica] [https://descomplica.com.br/faculdade/]
+- 👨‍🎓: Course: Mathmatic at [FEUC][https://www.feuc.br/] and analysis and systems development at [Descomplica] [https://descomplica.com.br/faculdade/]
 
 
 <div>
@@ -27,6 +27,9 @@
   <a href="https://www.instagram.com/elyas_ncr/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/elyas_ncr/>
   </a>
+  </div>
+
+  <div>
   <a href="https://www.linkedin.com/in/elyas-nogueira-de-carvalho-ribeiro-949724142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elyas-nogueira-de-carvalho-ribeiro-949724142//>
   </a> 
