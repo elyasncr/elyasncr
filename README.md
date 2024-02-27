@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 😄 Pronouns: ele/dele he
-- 👨‍🎓: Course: Mathmatic at [FEUC][https://www.feuc.br/] and analysis and systems development at [Descomplica] [https://descomplica.com.br/faculdade/]
+- 👨‍🎓: Course: Mathmatics at [FEUC][https://www.feuc.br/] and analysis and systems development at [Descomplica] [https://descomplica.com.br/faculdade/]
 
 
 <div>
