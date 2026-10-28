@@ -9,11 +9,28 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Matemática na [FEUC](https://www.feuc.br/) e Análise e Desenvolvimento de Sistemas na [Descomplica](https://descomplica.com.br/faculdade/)
-- 📊 Pós-graduação em Data Science
 - 🌱 Estudando Machine Learning, Deep Learning e agentes de IA com LLMs locais
 - 🚴 Nas horas vagas: bike, NFL e Fórmula 1 (e acabo transformando tudo em projeto)
 - 😄 Pronomes: ele/dele
+
+---
+
+### 🎓 Formação
+
+| Curso | Instituição | Período |
+|---|---|---|
+| MBA em Inteligência Artificial e Big Data<br><sub>TCC: [NFL Analytics Lab](https://github.com/elyasncr/NFL)</sub> | Anhanguera | 2025 – 2026 |
+| Pós-graduação em Engenharia de Machine Learning | FIAP | 2024 – 2025 |
+| Pós-graduação em Ciência de Dados | [Descomplica](https://descomplica.com.br/faculdade/) | 2024 |
+| Bacharelado em Análise e Desenvolvimento de Sistemas | [Descomplica](https://descomplica.com.br/faculdade/) | 2021 – 2024 |
+| Bacharelado em Matemática | [FEUC](https://www.feuc.br/) | 2020 – 2024 |
+
+**📜 Certificações**
+
+- Generative AI Engineering with LLMs — IBM / Coursera (2026)
+- Professional Machine Learning Engineer — Google Cloud *(em andamento)*
+- Formação em IA & Machine Learning Engineering — Alura / FIAP (2024)
+- Google Data Analytics Professional Certificate (2023)
 
 ---
 
