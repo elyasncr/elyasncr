@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Elyas Carvalho 🌻</h1>
+<h1 align="center">Olá! Eu sou o Elyas Carvalho </h1>
 
 <p align="center">
   <b>Ciência de Dados · Machine Learning · Visão Computacional · LLMs</b><br>
